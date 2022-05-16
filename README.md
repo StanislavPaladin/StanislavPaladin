@@ -18,7 +18,9 @@ My hard skills: <br>
 -Node+Express+MongoDB pet project: <br>
 <a href="https://github.com/StanislavPaladin/node-express-pet-project" > Code </a> <br>
 -HTML/CSS/JS Projects:<br>
-<a href="https://stanislavpaladin.github.io/TourPlan/">Demo</a> | <a href="https://github.com/StanislavPaladin/TourPlan">Code</a>
+-Travel agency site:<br>
+<a href="https://stanislavpaladin.github.io/TourPlan/">Demo</a> | <a href="https://github.com/StanislavPaladin/TourPlan">Code</a><br>
+-Gym site: <br>
 <a href="https://stanislavpaladin.github.io/JS_course_diploma/">Demo</a> | <a href="https://github.com/StanislavPaladin/JS_course_diploma">Code</a>
 <!---
 StanislavPaladin/StanislavPaladin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
