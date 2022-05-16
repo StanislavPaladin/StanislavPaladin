@@ -10,7 +10,7 @@ My hard skills: <br>
 -StoryBook, Bootstrap, Material UI<br>
 -Current English lvl A2-B1 (i'm actively stydying it)<br>
 <br>
--My works :
+-My works :<br>
 -React-Redux app, using star-wars API: <br>
 <a href="https://stanislavpaladin.github.io/react-redux-StarWars/">Demo</a> | <a href="https://github.com/StanislavPaladin/react-redux-StarWars">Code</a> <br>
 -MERN project (dating app): <br>
