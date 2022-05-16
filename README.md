@@ -11,16 +11,16 @@ My hard skills: <br>
 -Current English lvl A2-B1 (i'm actively stydying it)<br>
 <br>
 -My works :<br>
--React-Redux app, using star-wars API: <br>
+-React-Redux app, using star-wars API: 
 <a href="https://stanislavpaladin.github.io/react-redux-StarWars/">Demo</a> | <a href="https://github.com/StanislavPaladin/react-redux-StarWars">Code</a> <br>
--MERN project (dating app): <br>
+-MERN project (dating app): 
 <a href="https://github.com/StanislavPaladin/DatingApp">Code</a><br>
--Node+Express+MongoDB pet project: <br>
+-Node+Express+MongoDB pet project: 
 <a href="https://github.com/StanislavPaladin/node-express-pet-project" > Code </a> <br>
 -HTML/CSS/JS Projects:<br>
--Travel agency site:<br>
+-Travel agency site:
 <a href="https://stanislavpaladin.github.io/TourPlan/">Demo</a> | <a href="https://github.com/StanislavPaladin/TourPlan">Code</a><br>
--Gym site: <br>
+-Gym site: 
 <a href="https://stanislavpaladin.github.io/JS_course_diploma/">Demo</a> | <a href="https://github.com/StanislavPaladin/JS_course_diploma">Code</a>
 <!---
 StanislavPaladin/StanislavPaladin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
